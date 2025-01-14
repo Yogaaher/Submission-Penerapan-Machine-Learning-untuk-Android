@@ -1,0 +1,30 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Asclepius" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color (abu-abu terang) -->
+        <item name="colorPrimary">#757575</item>
+        <item name="colorPrimaryVariant">#616161</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        <!-- Secondary color -->
+        <item name="colorSecondary">#9E9E9E</item>
+        <item name="colorSecondaryVariant">#757575</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+
+        <!-- Background color -->
+        <item name="android:colorBackground">#E0E0E0</item>
+        <item name="colorOnBackground">#212121</item>
+
+        <!-- Surface color -->
+        <item name="colorSurface">#F5F5F5</item>
+        <item name="colorOnSurface">#424242</item>
+
+        <!-- Error color -->
+        <item name="colorError">#B00020</item>
+        <item name="colorOnError">#FFFFFF</item>
+
+        <item name="selectableItemBackground">?attr/selectableItemBackground</item>
+    </style>
+
+    <style name="Theme.Asclepius" parent="Base.Theme.Asclepius" />
+</resources>

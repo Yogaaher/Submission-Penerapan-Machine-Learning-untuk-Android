@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="preview_image_description">Gambar pratinjau</string>
+    <string name="history">History</string>
+    <string name="Machine_Learning">Machine Learning App</string>
+    <string name="result_page">Result Page</string>
+    <string name="delete_history">Delete History</string>
+</resources>
